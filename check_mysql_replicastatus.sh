@@ -66,7 +66,7 @@
 # 2023010300 Detect either Host or Socket argument (issue #14)          #
 # 2023060200 Update documentation for privileges MariaDB 10.5+          #
 # 2023072400 Fix output in CRITICAL state                               #
-# 2025032200 Updated for source/replica                                 #
+# 2025032200 Update for source/replica                                  #
 #########################################################################
 # Usage: ./check_mysql_replicastatus.sh (-o file|(-H dbhost [-P port]|-S socket) -u dbuser -p dbpass) ([-s connection]|[-C channel]) [-w integer] [-c integer] [-m integer]
 #########################################################################
